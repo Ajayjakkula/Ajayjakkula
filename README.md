@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ajay!</h1>
 
-<!--
-**Ajayjakkula/Ajayjakkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Full Stack Developer | Passionate about building scalable web apps and collaborative tools</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- 🔹 **Languages:** Java, JavaScript, HTML, CSS, SQL  
+- 🎨 **Frontend:** React.js, Bootstrap, Responsive Design  
+- 🔧 **Backend:** Node.js, Express.js, Spring Boot  
+- 🗄️ **Databases:** MongoDB, MySQL  
+- 🌐 **Web Technologies:** RESTful APIs, JSON, MVC Architecture  
+- 🛠️ **Tools & Platforms:** Git, GitHub, Postman, VS Code, npm  
+
+---
+
+### 🚀 Projects
+
+- 📚 **[BookStore](https://github.com/Ajayjakkula/BookStore)** – Full Stack MERN  
+  Full-stack online book management app. CRUD APIs, secure role-based access, responsive React UI, MongoDB data handling.
+
+- 🌐 **[Portfolio Website](https://ajay-jakkula-protfolio.netlify.app/)** – Personal website built with HTML, CSS, JS, hosted on Netlify. Mobile-friendly and clean UI.
+
+- 🧠 **ECE Collective (Ongoing)** – Java + Spring Boot + MySQL backend | React.js frontend.  
+  Real-time collaboration platform for ECE students.
+
+---
+
+### 🎓 Education
+
+- 🎓 **B.Tech - ECE**, RGUKT Basar (2022–2026), CGPA: 7.92  
+- 🧮 **PUC**, RGUKT Basar (2020–2022), CGPA: 8.04  
+- 🏫 **SSC**, TSMS Korikishala, CGPA: 10/10  
+
+---
+
+### 📃 Certifications
+
+- ✅ Java – Apna College  
+- ✅ React – GeeksforGeeks  
+
+---
+
+### 🌐 Let's Connect
+
+- ✉️ Email: [ajayjakkulaaa@gmail.com](mailto:ajayjakkulaaa@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ajay-jakkula)  
+- 💻 [GitHub](https://github.com/Ajayjakkula)
+
+---
+
+### 🤝 Open to
+
+- Internships  
+- Collaboration on tech projects  
+- Web development discussions  
