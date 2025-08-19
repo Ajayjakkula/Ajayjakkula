@@ -10,7 +10,7 @@
 
 - 🔹 **Languages:** Java, JavaScript, HTML, CSS, SQL  
 - 🎨 **Frontend:** React.js, Bootstrap, Responsive Design  
-- 🔧 **Backend:** Node.js, Express.js, Spring Boot  
+- 🔧 **Backend:** Node.js, Express.js
 - 🗄️ **Databases:** MongoDB, MySQL  
 - 🌐 **Web Technologies:** RESTful APIs, JSON, MVC Architecture  
 - 🛠️ **Tools & Platforms:** Git, GitHub, Postman, VS Code, npm  
@@ -31,7 +31,7 @@
 
 ### 🎓 Education
 
-- 🎓 **B.Tech - ECE**, RGUKT Basar (2022–2026), CGPA: 7.92  
+- 🎓 **B.Tech - ECE**, RGUKT Basar (2022–2026), CGPA: 7.94
 - 🧮 **PUC**, RGUKT Basar (2020–2022), CGPA: 8.04  
 - 🏫 **SSC**, TSMS Korikishala, CGPA: 10/10  
 
