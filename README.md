@@ -41,7 +41,7 @@
 
 - ✅ Java – Apna College  
 - ✅ React – GeeksforGeeks  
-- ✅ FullStack – GeeksforGeeks  
+- ✅ FullStack – Apna College 
 
 ---
 
