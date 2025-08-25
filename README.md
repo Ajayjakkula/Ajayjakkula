@@ -24,7 +24,7 @@
 
 - 🌐 **[Portfolio Website](https://ajay-jakkula-protfolio.netlify.app/)** – Personal website built with HTML, CSS, JS, hosted on Netlify. Mobile-friendly and clean UI.
 
-- 🧠 **ECE Collective (Ongoing)** – Java + Spring Boot + MySQL backend | React.js frontend.  
+- 🧠 **[ECE Collective](https://github.com/Ajayjakkula/ECE-COLLECTIVE) (Ongoing)** – Mern stack  
   Real-time collaboration platform for ECE students.
 
 ---
