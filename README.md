@@ -19,6 +19,17 @@
 
 ### 🚀 Projects
 
+-**• aZ Hotels** [GitHub](https://github.com/Ajayjakkula/aZ_Hotels) | [LIVE DEMO](https://az-hotels.onrender.com/listings)  
+— *Full Stack (MERN)*  
+
+Developed a full-stack hotel booking and management platform using the **MERN stack**.  
+- Implemented secure user authentication and authorization with **sessions and Passport.js**, following the MVC architecture.  
+- Integrated **MongoDB Atlas** for cloud database management and **Cloudinary** for hotel image uploads.  
+- Designed responsive, reusable **EJS templates** ensuring a seamless user experience across devices.  
+- Focused on clean backend APIs with **Express and Mongoose**.  
+- Deployed the application on **Render** for production-ready hosting.  
+
+
 - 📚 **[BookStore](https://github.com/Ajayjakkula/BookStore)** – Full Stack MERN  
   Full-stack online book management app. CRUD APIs, secure role-based access, responsive React UI, MongoDB data handling.
 
